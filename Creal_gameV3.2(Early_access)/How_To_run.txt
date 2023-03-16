@@ -1,0 +1,3 @@
+1. start Game_start.exe
+2. have fun
+note: this game is still being worked on, any problems should be shared with dev in github issues folder
